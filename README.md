@@ -12,6 +12,7 @@ A continuación, se listan los proyectos más importantes que he desarrollado.
 ### 1. [KruskalWallis_App](**https://learn.microsoft.com/es-es/answers/questions/2519915/qu-es-la-carpeta-appdata-y-sus-subcarpetas-local-l**) (Estadística y Desarrollo con R/Shiny)
 > Código de una aplicación desarrollada para ser utilizada con **RStudio** y la librería **Shiny**. Probablemente implementa un análisis estadístico no paramétrico basado en la prueba de Kruskal-Wallis.
 * **Tecnologías:** R, RStudio, Shiny
+* importante: El archivo esta comprimido, descargar.
 
 
 ### 2. [Articulo_f](**https://admisnitraciondearchivogabrielagomezperez.wordpress.com/2011/11/23/unidad-v-archivos-directos/**) (Investigación Académica)
